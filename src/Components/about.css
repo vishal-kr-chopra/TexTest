@@ -1,0 +1,34 @@
+#about{
+	position: absolute;
+	padding: 20px;
+	margin-left: 7%;
+	height: 55%;
+	width:55%;
+	border: 2px solid black;
+	box-shadow: 15px 15px 15px grey;
+}
+
+.p{
+	color: black;
+	text-decoration: none;
+}
+.p:hover{
+	color:white;
+	text-shadow: 5px 5px 5px black;
+	text-decoration: none;
+}
+
+.prof{
+	font-size: 20px;
+ 	position: absolute;
+  	margin-top: -10px;
+  	margin-left: 70%;
+  	padding: 20px;
+  	height:450px;
+  	width:300px;
+}
+.prof:hover{
+  color:green;
+  opacity:0.7;
+  cursor:pointer;
+}
