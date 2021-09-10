@@ -9,7 +9,7 @@ import Contact from "./Components/contact";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 import Route from "react-router-dom/Route";
 import "./App.css";
-
+//Adding for Dev
 //x   : for time intervals
 //err : to display logs side by side
 let x,
